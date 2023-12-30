@@ -12,8 +12,8 @@ export default function App() {
         </main>
         <footer className="App-footer">
           <p>This project was coded by Harshithareddy and is {" "}
-          <a href="https://github.com/harshi2309cmd/dictionary_project" target="_blank"  rel="noopener noreferrer">open-sourced on GitHub</a>{" "}
-           and hosted on <a href="https://app.netlify.com/sites/cute-salmiakki-75e6aa/overview" target="_blank"  rel="noopener noreferrer">Netlify</a>
+          <a href="https://github.com/harshi2309cmd/dictionary-app" target="_blank"  rel="noopener noreferrer">open-sourced on GitHub</a>{" "}
+           and hosted on <a href="https://main--dashing-marshmallow-48776a.netlify.app/" target="_blank"  rel="noopener noreferrer">Netlify</a>
            </p>
         </footer>
       </div>
